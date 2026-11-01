@@ -1,0 +1,8 @@
+[Flatpak Ref]
+Title=Clima
+Name=io.github.navarretenoir.Clima
+Branch=stable
+Url=https://navarretenoir.github.io/flatpak/repo
+IsRuntime=false
+RuntimeRepo=https://dl.flathub.org/repo/flathub.flatpakrepo
+GPGKey=mDMEauda/xYJKwYBBAHaRw8BAQdA7nsCi2Ux6rxBfDTHSbnwU8pgQA0dQRYHHvVXe9/n9eq0NkphdmllcmEgTmF2YXJyZXRlIChGbGF0cGFrKSA8bmF2YXJyZXRlLm5vaXJAZ21haWwuY29tPoiTBBMWCgA7FiEEggFkCswzDj0qAfd8AqxXJzFvEdIFAmrnWv8CGwMFCwkIBwICIgIGFQoJCAsCBBYCAwECHgcCF4AACgkQAqxXJzFvEdKV0wD/eMIMFBnJCtpmVI53b0V3NQKyQHZ2YjLWP7o4u2DztAABAJIrd+Nm3BjgsVkKt23wEkmYSX/G8CPbmBxuhVBIBicA
